@@ -1,0 +1,6 @@
+name: AnarchyOITB
+main: eu.grayroot.anarchyoitb.OITB
+version: 1.0.0
+author: GrayRoot
+commands:
+  spawn:
